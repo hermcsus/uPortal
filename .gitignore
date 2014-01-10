@@ -12,3 +12,17 @@
 /assembly/.ant-targets-build.xml
 *.iml
 /.idea
+uportal-portlets-overlay/jasig-widget-portlets/overlays
+uportal-portlets-overlay/pluto-testsuite/overlays
+uportal-portlets-overlay/email-preview/overlays
+uportal-portlets-overlay/cas/overlays
+uportal-portlets-overlay/cas-proxy-test-portlet/overlays
+uportal-portlets-overlay/WebProxyPortlet/overlays
+uportal-portlets-overlay/WeatherPortlet/overlays
+uportal-portlets-overlay/SimpleContentPortlet/overlays
+uportal-portlets-overlay/NotificationPortlet/overlays
+uportal-portlets-overlay/NewsReaderPortlet/overlays
+uportal-portlets-overlay/FunctionalTestsPortlet/overlays
+uportal-portlets-overlay/CalendarPortlet/overlays
+uportal-portlets-overlay/BookmarksPortlet/overlays
+uportal-portlets-overlay/AnnouncementsPortlet/overlays
